@@ -99,7 +99,7 @@ A complete, structured collection of Machine Learning, Deep Learning, and Applie
 
 ---
 
-## 🚀 Applied AI & Modern Tools
+##  Applied AI & Modern Tools
 
 ### Course 15: Computer Vision (Applied)
 66. [Object Detection Basics](./15-computer-vision/66-object-detection-basics.md)
