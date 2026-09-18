@@ -2,7 +2,7 @@
 
 A complete, structured collection of Machine Learning, Deep Learning, and Applied AI notes/content.
 
-##  🧐Core ML & DL (Foundations)
+## 🧐 Core ML & DL (Foundations)
 
 ### Course 1: Machine Learning Basics
 1. [Introduction to AI, ML, DL](./01-ml-basics/01-intro-ai-ml-dl.md)
@@ -99,7 +99,7 @@ A complete, structured collection of Machine Learning, Deep Learning, and Applie
 
 ---
 
-##  Applied AI & Modern Tools
+## 🚀 Applied AI & Modern Tools
 
 ### Course 15: Computer Vision (Applied)
 66. [Object Detection Basics](./15-computer-vision/66-object-detection-basics.md)
