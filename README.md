@@ -1,8 +1,8 @@
-# 🍯 Sauce of Machine Learning
+#  Sauce of Machine Learning
 
-A complete, structured collection of Machine Learning and Deep Learning notes/content.
+A complete, structured collection of Machine Learning, Deep Learning, and Applied AI notes/content.
 
-## Menu
+##  🧐Core ML & DL (Foundations)
 
 ### Course 1: Machine Learning Basics
 1. [Introduction to AI, ML, DL](./01-ml-basics/01-intro-ai-ml-dl.md)
@@ -99,4 +99,36 @@ A complete, structured collection of Machine Learning and Deep Learning notes/co
 
 ---
 
-⭐ Star this repo if you find it helpful!
+## 🚀 Applied AI & Modern Tools
+
+### Course 15: Computer Vision (Applied)
+66. [Object Detection Basics](./15-computer-vision/66-object-detection-basics.md)
+67. [YOLO (You Only Look Once)](./15-computer-vision/67-yolo.md)
+68. [Image Segmentation Basics](./15-computer-vision/68-image-segmentation.md)
+
+### Course 16: Generative AI
+69. [Introduction to Generative AI](./16-generative-ai/69-intro-genai.md)
+70. [Large Language Models (LLMs) Basics](./16-generative-ai/70-llm-basics.md)
+71. [Prompt Engineering](./16-generative-ai/71-prompt-engineering.md)
+72. [Fine-tuning vs RAG](./16-generative-ai/72-finetuning-vs-rag.md)
+73. [Diffusion Models](./16-generative-ai/73-diffusion-models.md)
+
+### Course 17: LLM Frameworks & Tools
+74. [LangChain — Chains, Memory, Tools](./17-llm-frameworks/74-langchain.md)
+75. [Vector Databases (Pinecone, FAISS, Chroma)](./17-llm-frameworks/75-vector-databases.md)
+76. [Embeddings & Semantic Search](./17-llm-frameworks/76-embeddings-semantic-search.md)
+
+### Course 18: Agentic AI
+77. [What are AI Agents](./18-agentic-ai/77-what-are-ai-agents.md)
+78. [Agent Architectures (ReAct, Plan-and-Execute)](./18-agentic-ai/78-agent-architectures.md)
+79. [Multi-Agent Systems](./18-agentic-ai/79-multi-agent-systems.md)
+80. [Tool Use / Function Calling](./18-agentic-ai/80-tool-use-function-calling.md)
+
+### Course 19: MLOps
+81. [Introduction to MLOps](./19-mlops/81-intro-mlops.md)
+82. [Model Versioning & Experiment Tracking (MLflow)](./19-mlops/82-model-versioning-mlflow.md)
+83. [CI/CD for ML Pipelines](./19-mlops/83-cicd-ml-pipelines.md)
+84. [Model Monitoring & Drift Detection](./19-mlops/84-model-monitoring-drift.md)
+85. [Model Serving (Docker, APIs, FastAPI)](./19-mlops/85-model-serving.md)
+
+---
